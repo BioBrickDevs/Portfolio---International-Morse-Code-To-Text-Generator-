@@ -62,9 +62,9 @@ space_for_words = "/"
 no_translation = "Error"
 
 
-print("""Welcome to text to international morse code.\n 
-         ' ' space means space between symbols. 
-         / slash means space between words. 
+print("""Welcome to text to international morse code.\n
+         ' ' space means space between symbols.
+         / slash means space between words.
          "Error" means no symbol found at translation table. \n""")
 
 
